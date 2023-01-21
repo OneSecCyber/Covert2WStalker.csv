@@ -30,7 +30,7 @@ def Convert_2_WStalker_CSV():
                 f_out.write(file4_contents[i].rstrip().replace(" ","")+ "\n" )
 
 
-    # remove request which does not have response
+    # it removes request which does not have response
     def Remove_InCompleted_requests():
 
         output_file_name = sys.argv[1].replace('.xml','.csv')
