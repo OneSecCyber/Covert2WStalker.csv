@@ -17,7 +17,7 @@ Hope it can help you.
 
 **1) Save burpsuite proxy history to .xml file**
  - Go to proxy tab and select all history
- - right click and `save items` and save the file as anything.xml file
+ - right click and `save items` and save the file as <anything>.xml file
 
  ![save history](https://github.com/OneSecCyber/Covert2WStalker.csv/blob/main/save-history.png)
 
