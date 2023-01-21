@@ -18,7 +18,7 @@ Hope it can helps you.
 **1) Save burpsuite proxy history to .xml file**
  - Go to proxy tab and select all history
  - right click and `save items` and save the file as anything.xml file
- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+ ![save history](https://github.com/OneSecCyber/Covert2WStalker.csv/blob/main/save-history.png)
 
 
 **2) Usee this python script to convert this .xml file into .csv file, in the fromat of WStalker**
